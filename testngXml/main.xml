@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="AC Regression Suite">
+    <test name="Some test">
+        <classes>
+            <class name="MainTest"/>
+        </classes>
+    </test>
+</suite>
